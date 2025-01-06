@@ -95,4 +95,4 @@ The system consists of two primary modules:
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ---
-For more details, refer to the [design document](./design_document.md).
+For more details, refer to the [design document](https://docs.google.com/document/d/1Augs7KS-SfcL0yzAU3c-v3wTZyzQ5ppweAxwTivkuhE/edit?usp=sharing).
